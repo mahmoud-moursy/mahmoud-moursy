@@ -8,7 +8,7 @@
 - Some more Rust...
 - WebAssembly?
 ## 📫 How to reach me ...
-- Via my Discord [@T•Ø•R•Ü•S#0361](https://discord.com/channels/@me/222491346856968192) B)
+- Via my Discord [@T•Ø•R•Ü•S#0361](https://discord.com/channels/@me/222491346856968192) B) (The link is broken ahah)
 ## 🍩 Fun facts about me
 - I was born in Japan. That's nice :)
 - I made my profile picture on my own and I am VERY proud of it
