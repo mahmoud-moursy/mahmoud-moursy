@@ -5,6 +5,9 @@
 <img src="https://simpleicons.org/icons/markdown.svg" height="64"></img>
 <img src="https://simpleicons.org/icons/rust.svg" height="64"></img>
 <img src="https://simpleicons.org/icons/node-dot-js.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/typescript.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/svelte.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/react.svg" height="64"></img>
 ## My languages:
 | Language | Skill level |
 |----------|-------------|
@@ -35,7 +38,7 @@
 - I was born in Japan. That's nice :)
 - I made my profile picture on my own and I am VERY proud of it
 - I think you are a cool person B)
-- I want to contribute to open-source projects but like i dont know literallY any C but all of them are in C :(
+- I want to contribute to open-source projects, but I don't really know WHAT to contribute :(
 - Am nerd (That's not a bad thing though!)
 ## 📝 Favorite text editors
 ![VS Code logo](https://www.iconfinder.com/icons/1378056/download/png/32) 
