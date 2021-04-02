@@ -15,29 +15,45 @@
 | Markdown | ⭐ (:cry:) |
 | Svelte | :star::star::star: |
 | React | :star::star::star: |
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)
+
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" height="32"/> Check out my coolest projects! 
 - To do! (But trust me, my cool projects DO exist!)
 ## 👀 I’m interested in ...
 - The Rust programming language <sup><sup>hey, did you know that Rust is a type-safe programing langua-- *gunshots*</sup></sup>
-- Started programming with JavaScript, will die with JavaScript.
+- Living by JavaScript, and I *will* die by JavaScript.
 ## 🌱 I’m currently learning ...
 - Rust.
 - Rust...
 - Some more Rust...
 - WebAssembly?
-- Yea, no I need to grasp the ba
+- Yea, no I need to grasp the basics of Rust... but should I do WebAssembly?
 ## 📫 How to reach me ...
 - Via my Discord [@T•Ø•R•Ü•S#0361](https://discord.com/channels/@me/222491346856968192) B)
+- Only through Discord :/
 ## 🍩 Fun facts about me
 - I was born in Japan. That's nice :)
 - I made my profile picture on my own and I am VERY proud of it
 - I think you are a cool person B)
 - I want to contribute to open-source projects but like i dont know literallY any C but all of them are in C :(
-- Am nerd
+- Am nerd (That's not a bad thing though!)
 ## 📝 Favorite text editors
-- Visual Studio Code ![VS Code](https://www.iconfinder.com/icons/306167/download/svg/120)
-- Neovim (Emacs is good too, tho.)
-- Atom is for absolute NERDS and SUCKS. If you use Atom, please remember that the Fun facts section does not apply to you.
+![VS Code logo](https://www.iconfinder.com/icons/1378056/download/png/32) 
+
+Visual Studio Code -- the signature text editor of a webdev (or Atom if you dare to defy). A teeming extension ecosystem and some nice themes make it a strong contender.
+
+![Vim logo](https://www.iconfinder.com/icons/4691236/download/png/32) 
+
+Neovim is really good, and second in command (but it's also really unconventional)..! Lovely shortcuts, but a steep learning curve makes it a struggle to get into it, especially since spenind the time learning all of these shortcuts would, ironically, hinder my workflow and I'm too lazy to learn them separately. (Emacs is good too, but Vim is more minimal 😄)
+
+![Atom logo](https://www.iconfinder.com/icons/4691249/download/png/32) 
+
+Atom is... Atom. Emacs is better. But seriously, Emacs naming copy-pasting "yanking"..? For that, I put Atom #1.
+## 🎮 My top 3 games
+- Ghost of Tsushima (PS4)
+- VALORANT (PC) ~~(minus points if played with friends)~~
+- Minecraft (Pretty much everywhere?) **(bonus points if played with friends)**
 <!---
 T-O-R-U-S/T-O-R-U-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
