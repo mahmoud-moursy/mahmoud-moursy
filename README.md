@@ -1,11 +1,10 @@
 # 🍩 Hi, I’m @T-O-R-U-S
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/rust.svg" height="64"></img>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/python.svg" height="64"></img>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linux.svg" height="64"></img>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/js.svg" height="64"></img>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/markdown.svg" height="64"></img>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/rust.svg" height="64"></img>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/node-js.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/python.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/manjaro.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/javascript.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/markdown.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/rust.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/node-dot-js.svg" height="64"></img>
 ## My languages:
 | Language | Skill level |
 |----------|-------------|
