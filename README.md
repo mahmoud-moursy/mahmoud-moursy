@@ -1,4 +1,11 @@
 # 👋 Hi, I’m @T-O-R-U-S
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/rust.svg" height="64"></img>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/python.svg" height="64"></img>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linux.svg" height="64"></img>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/js.svg" height="64"></img>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/markdown.svg" height="64"></img>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/rust.svg" height="64"></img>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/node-js.svg" height="64"></img>
 ## My languages:
 | Language | Skill level |
 |----------|-------------|
@@ -6,10 +13,12 @@
 | JavaScript (and TypeScript!) | ⭐⭐⭐⭐⭐ |
 | Python | ⭐⭐⭐ |
 | Markdown | ⭐ (:cry:) |
+| Svelte | :star::star::star: |
+| React | :star::star::star: |
 ## ⚙️ Check out my coolest projects!
 - To do!
 ## 👀 I’m interested in ...
-- The Rust programming language <sup><sup>hey, did you know that Rust is a type-safe programing language-- *gunshots*</sup></sup>
+- The Rust programming language <sup><sup>hey, did you know that Rust is a type-safe programing langua-- *gunshots*</sup></sup>
 - Started programming with JavaScript, will die with JavaScript.
 ## 🌱 I’m currently learning ...
 - Rust.
