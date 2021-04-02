@@ -1,14 +1,24 @@
 # 👋 Hi, I’m @T-O-R-U-S
+## My languages:
+| Language | Skill level |
+|----------|-------------|
+| Rust | ⭐⭐ |
+| JavaScript (and TypeScript!) | ⭐⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐ |
+| Markdown | ⭐ (:cry:) |
+## ⚙️ Check out my coolest projects!
+- To do!
 ## 👀 I’m interested in ...
-- The rust programming language
-- Started with JavaScript, dying with JavaScript.
+- The Rust programming language <sup><sup>hey, did you know that Rust is a type-safe programing language-- *gunshots*</sup></sup>
+- Started programming with JavaScript, will die with JavaScript.
 ## 🌱 I’m currently learning ...
 - Rust.
 - Rust...
 - Some more Rust...
 - WebAssembly?
+- Yea, no I need to grasp the ba
 ## 📫 How to reach me ...
-- Via my Discord [@T•Ø•R•Ü•S#0361](https://discord.com/channels/@me/222491346856968192) B) (The link is broken ahah)
+- Via my Discord [@T•Ø•R•Ü•S#0361](https://discord.com/channels/@me/222491346856968192) B)
 ## 🍩 Fun facts about me
 - I was born in Japan. That's nice :)
 - I made my profile picture on my own and I am VERY proud of it
