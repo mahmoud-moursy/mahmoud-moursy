@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @T-O-R-U-S
+# 🍩 Hi, I’m @T-O-R-U-S
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/rust.svg" height="64"></img>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/python.svg" height="64"></img>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linux.svg" height="64"></img>
@@ -15,8 +15,8 @@
 | Markdown | ⭐ (:cry:) |
 | Svelte | :star::star::star: |
 | React | :star::star::star: |
-## ⚙️ Check out my coolest projects!
-- To do!
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" height="32"/> Check out my coolest projects! 
+- To do! (But trust me, my cool projects DO exist!)
 ## 👀 I’m interested in ...
 - The Rust programming language <sup><sup>hey, did you know that Rust is a type-safe programing langua-- *gunshots*</sup></sup>
 - Started programming with JavaScript, will die with JavaScript.
@@ -35,7 +35,7 @@
 - I want to contribute to open-source projects but like i dont know literallY any C but all of them are in C :(
 - Am nerd
 ## 📝 Favorite text editors
-- Visual Studio Code
+- Visual Studio Code ![VS Code](https://www.iconfinder.com/icons/306167/download/svg/120)
 - Neovim (Emacs is good too, tho.)
 - Atom is for absolute NERDS and SUCKS. If you use Atom, please remember that the Fun facts section does not apply to you.
 <!---
