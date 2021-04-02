@@ -17,7 +17,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" height="32"/> Check out my coolest projects! 
+## <img src="https://simpleicons.org/icons/github.svg" height="32"/> Check out my coolest projects! 
 - To do! (But trust me, my cool projects DO exist!)
 ## 👀 I’m interested in ...
 - The Rust programming language <sup><sup>hey, did you know that Rust is a type-safe programing langua-- *gunshots*</sup></sup>
@@ -29,7 +29,7 @@
 - WebAssembly?
 - Yea, no I need to grasp the basics of Rust... but should I do WebAssembly?
 ## 📫 How to reach me ...
-- Via my Discord [@T•Ø•R•Ü•S#0361](https://discord.com/channels/@me/222491346856968192) B)
+- Via my [Discord <img src="https://simpleicons.org/icons/discord.svg" height="16"></img>](https://discord.com/app/) B)
 - Only through Discord :/
 ## 🍩 Fun facts about me
 - I was born in Japan. That's nice :)
