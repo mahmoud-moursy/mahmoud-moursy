@@ -13,6 +13,9 @@
 <code><img src="https://simpleicons.org/icons/react.svg" height="16"></img></code>
 </h2>
 
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=T-O-R-U-S)][profile]
+
+
 <br >
 
 # What is my calling?
@@ -40,9 +43,10 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |CSS (P A I N F U L)|-⭐|
 
 <br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)](https://github.com/T-O-R-U-S)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-R-U-S&layout=compact)](https://github.com/T-O-R-U-S)
-##### Hey! These really cool widgets on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)][profile]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-R-U-S&layout=compact)][profile]
+##### Hey! These really cool language usage widgets on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
+##### The visitor counter badge was made by [Jwenjian](https://github.com/jwenjian)!
 
 # Front-end sampler coming soon! But this decent markdown (I hope) should be a good sign :)
 
@@ -59,5 +63,7 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 
 
 <br >
+
+[profile]: https://github.com/T-O-R-U-S
 
 > ####  Reach out to me on [Discord](https://www.discord.com/app)! I am @T•Ø•R•Ü•S#0361 ;)
