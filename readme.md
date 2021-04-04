@@ -50,6 +50,11 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 
 # Front-end sampler coming soon! But this decent markdown (I hope) should be a good sign :)
 
+### In the meantime, you can check out my coolest full-stack project [HackChat-2](https://hack-chat-two.vercel.app)! The source code is available right here on my Github profile :)
+
+## Always on the edge
+I have been quick to adopt new, aspiring technologies such as Svelte, WebAssembly, and serverless back-ends (As proven by my example above! (Which doesn't feature WebAssembly))
+
 ## 📝 My top IDEs/text editors!
 1. Visual Studio code! <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="16"></img>
 2. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (But yikes, is it expensive!)
