@@ -13,6 +13,8 @@
 <code><img src="https://simpleicons.org/icons/react.svg" height="16"></img></code>
 </h2>
 
+###### P.S: This heading doesn't display properly on dark mode :( You should use dark mode dimmed instead for a better experience.
+
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=T-O-R-U-S)][profile]
 
 
