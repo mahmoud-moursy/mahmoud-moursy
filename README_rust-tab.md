@@ -4,8 +4,12 @@
 
 <p>
 
-|[JS code](README_js-tab.md)|Rust code|[Python code](README_python-tab.md)|[WebAssembly](README_wasm-tab.md)|
-|-|-|-|-|
+<h1 align="center">
+<a href="README_js-tab.md">JS code</a> <•>
+<a>Rust code</a> <•>
+<a href="README_python-tab.md">Python code</a> <•>
+<a href="README_wasm-tab.md">WebAssembly</a>
+</h1>
 
 Rust! <img src="https://simpleicons.org/icons/rust.svg" height="16"> I am a novice Rustacean -- and I'm capable of creating various types of simple, safe applications in Rust! Due to Rust's explicit error handling, my Rust apps should be rock-solid stable and super speedy due to Rust's compiler!.. but I'm not that good at Rust yet so we'll have to wait and see 😅
 

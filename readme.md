@@ -13,11 +13,6 @@
 <code><img src="https://simpleicons.org/icons/react.svg" height="16"></img></code>
 </h2>
 
-###### P.S: This heading doesn't display properly on dark mode :( You should use dark mode dimmed instead for a better experience.
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=T-O-R-U-S)][profile]
-
-
 <br >
 
 # What is my calling?
@@ -26,8 +21,13 @@
 
 <p>
 
-|JS code|[Rust code](README_rust-tab.md)|[Python code](README_python-tab.md)|[WebAssembly](README_wasm-tab.md)
-|-|-|-|-|
+<h1 align="center">
+<a href="README_js-tab.md">JS code</a> <•>
+<a href="README_rust-tab.md">Rust code</a> <•>
+<a href="README_python-tab.md">Python code</a> <•>
+<a href="README_wasm-tab.md">WebAssembly</a>
+</h1>
+
 
 JavaScript! <img src="https://simpleicons.org/icons/javascript.svg" height="16"> All the way. I am an expert in everything JavaScript, and would love to contribute to a JavaScript open-source project! I have made several small applications to showcase my back-end JavaScript expertise. My favorite back-end NodeJS library is currently KoaJS (but I've got some express experience)!
 
@@ -45,17 +45,11 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |CSS (P A I N F U L)|-⭐|
 
 <br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)][profile]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-R-U-S&layout=compact)][profile]
-##### Hey! These really cool language usage widgets on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
-##### The visitor counter badge was made by [Jwenjian](https://github.com/jwenjian)!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)](https://github.com/T-O-R-U-S)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-R-U-S&layout=compact)](https://github.com/T-O-R-U-S)
+##### Hey! These really cool widgets on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
 
 # Front-end sampler coming soon! But this decent markdown (I hope) should be a good sign :)
-
-### In the meantime, you can check out my coolest full-stack project [HackChat-2](https://hack-chat-two.vercel.app)! The source code is available right here on my Github profile :)
-
-## Always on the edge
-I have been quick to adopt new, aspiring technologies such as Svelte, WebAssembly, and serverless back-ends (As proven by my example above! (Which doesn't feature WebAssembly))
 
 ## 📝 My top IDEs/text editors!
 1. Visual Studio code! <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="16"></img>
@@ -70,7 +64,5 @@ I have been quick to adopt new, aspiring technologies such as Svelte, WebAssembl
 
 
 <br >
-
-[profile]: https://github.com/T-O-R-U-S
 
 > ####  Reach out to me on [Discord](https://www.discord.com/app)! I am @T•Ø•R•Ü•S#0361 ;)
