@@ -15,10 +15,14 @@ Rust! <img src="https://simpleicons.org/icons/rust.svg" height="16"> I am a novi
 
 ![Rust code example](rust.png)
 
-My latest Rust adventure? [I made a fast command-line utility to easily download files from the web similar to Curl!](https://github.com/T-O-R-U-S/quickdl)
+My latest Rust adventure? [I made a command-line utility meant to replace npm init (starting point for all NodeJS projects)](https://github.com/T-O-R-U-S/Inknit)
+
+My most **practical** Rust adventure? [I made a fast command-line utility to easily deploy a server on localhost](https://github.com/T-O-R-U-S/qdp)
 <br >
 
-If what you search for is some less *fringe* Rust use, then you should look forward to my next Rust adventure!
+Prior sideprojects:
+- [I made a fast command-line utility to easily deploy a server on localhost](https://github.com/T-O-R-U-S/qdp)
+- [I made a fast command-line utility to easily download files from the web similar to Curl!](https://github.com/T-O-R-U-S/quickdl)
 </p>
 
 
