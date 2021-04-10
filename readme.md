@@ -49,7 +49,8 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-R-U-S&layout=compact)](https://github.com/T-O-R-U-S)
 ##### Hey! These really cool widgets on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
 
-# Front-end sampler coming soon! But this decent markdown (I hope) should be a good sign :)
+## Front-end sampler coming soon! But this decent markdown (I hope) should be a good sign :)
+- In the meantime, why not check out [my coolest full-stack Svelte project, HackChat?](https://hack-chat-two.vercel.app) The userbase is nonexistent (😭) but it IS a fully-functioning chat application!
 
 ## 📝 My top IDEs/text editors!
 1. Visual Studio code! <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="16"></img>
