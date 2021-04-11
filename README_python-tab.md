@@ -15,7 +15,7 @@ Python! <img src="https://simpleicons.org/icons/python.svg" height="16"> I have 
 
 ![Python code example](python.png)
 
-My latest Python adventure? [mafiru](https://github.com/T-O-R-U-S/mafiru)
+My latest Python adventure? [mafiru (MAss FIle Renaming Utility)](https://github.com/T-O-R-U-S/mafiru)
 <br >
 
 I don't have backups of the other endeavours 😅
