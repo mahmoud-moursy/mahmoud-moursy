@@ -15,10 +15,10 @@ Python! <img src="https://simpleicons.org/icons/python.svg" height="16"> I have 
 
 ![Python code example](python.png)
 
-My latest Python adventure? ~~[mafiru]()~~ \\\\Still need to upload it to Github 😅
+My latest Python adventure? [mafiru](https://github.com/T-O-R-U-S/mafiru)
 <br >
 
-Coming soon™️
+I don't have backups of the other endeavours 😅
 </p>
 
 
