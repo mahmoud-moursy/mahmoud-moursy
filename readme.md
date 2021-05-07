@@ -40,7 +40,7 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |--------|-----------|
 |JavaScript/TypeScript| ⭐⭐⭐⭐⭐|
 |Python|⭐⭐⭐|
-|Rust|⭐⭐|
+|Rust|⭐⭐⭐|
 |React/Svelte|⭐⭐⭐|
 |CSS (P A I N F U L)|-⭐|
 
