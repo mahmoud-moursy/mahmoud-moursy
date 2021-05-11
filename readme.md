@@ -54,8 +54,8 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 
 ## 📝 My top IDEs/text editors!
 1. Visual Studio code! <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="16"></img>
-2. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (But yikes, is it expensive!)
-3. NeoVim :)  <img src="https://simpleicons.org/icons/neovim.svg" height="16"></img> Nice and simple. Favorite command line application!
+2. NeoVim :)  <img src="https://simpleicons.org/icons/neovim.svg" height="16"></img> Nice and simple. Favorite command line application!
+3. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (But yikes, is it expensive! and presents little bonus functionality to top VSCode :/)
 ## ✨ Fun facts about me
 - I was born in Japan 🇯🇵 which I nice, but I was there for like 3 months and I don't know any Japanese :/
 - I have been programming since I was 10 years old. (It's true!) 👶
