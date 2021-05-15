@@ -1,18 +1,19 @@
 <h1 align="center"><img src="readme.png"></img></h1>
 
 <br >
-<h2>My languages (and tools):  
+<h2>My languages (and tools):</h2>
+<a href="https://github.com/T-O-R-U-S/">
 <code><img src="https://simpleicons.org/icons/python.svg" height="16"></img></code>
 <code><img src="https://simpleicons.org/icons/manjaro.svg" height="16"></img></code>
 <code><img src="https://simpleicons.org/icons/javascript.svg" height="16"></img></code>
 <code><img src="https://simpleicons.org/icons/markdown.svg" height="16"></img></code>
 <code><img src="https://simpleicons.org/icons/rust.svg" height="16"></img></code>
+<code><img src="https://simpleicons.org/icons/webassembly.svg" height="16"></img></code>
 <code><img src="https://simpleicons.org/icons/node-dot-js.svg" height="16"></img></code>
 <code><img src="https://simpleicons.org/icons/typescript.svg" height="16"></img></code>
 <code><img src="https://simpleicons.org/icons/svelte.svg" height="16"></img></code>
 <code><img src="https://simpleicons.org/icons/react.svg" height="16"></img></code>
-</h2>
-
+</a>
 <br >
 
 # What is my calling?
