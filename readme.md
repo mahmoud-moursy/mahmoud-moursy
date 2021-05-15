@@ -1,18 +1,22 @@
 <h1 align="center"><img src="readme.png"></img></h1>
 
 <br >
-<h2>My languages (and tools):</h2>
+<h2 align="center">My languages (and tools):</h2>
 <a href="https://github.com/T-O-R-U-S/">
-<code><img src="https://simpleicons.org/icons/python.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/manjaro.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/javascript.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/markdown.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/rust.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/webassembly.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/node-dot-js.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/typescript.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/svelte.svg" height="16"></img></code>
-<code><img src="https://simpleicons.org/icons/react.svg" height="16"></img></code>
+<div align="center">
+<code>
+<img src="https://simpleicons.org/icons/python.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/manjaro.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/javascript.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/markdown.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/rust.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/webassembly.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/node-dot-js.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/typescript.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/svelte.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/react.svg" height="64"></img>
+</code>
+</div>
 </a>
 <br >
 
@@ -40,10 +44,10 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |Language|Skill level|
 |--------|-----------|
 |JavaScript/TypeScript| ⭐⭐⭐⭐⭐|
-|Python|⭐⭐⭐|
 |Rust|⭐⭐⭐|
 |React/Svelte|⭐⭐⭐|
-|CSS (P A I N F U L)|-⭐|
+|Python|⭐⭐|
+|CSS|-⭐ 🥲|
 
 <br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)](https://github.com/T-O-R-U-S)
