@@ -46,8 +46,8 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |JavaScript/TypeScript| ⭐⭐⭐⭐⭐|
 |Rust|⭐⭐⭐|
 |React/Svelte|⭐⭐⭐|
-|Python|⭐⭐|
 |CSS|-⭐ 🥲|
+|Python|⭐⭐|
 
 <br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)](https://github.com/T-O-R-U-S)
