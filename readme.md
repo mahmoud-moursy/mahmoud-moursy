@@ -11,7 +11,7 @@
 <img src="https://simpleicons.org/icons/markdown.svg" height="64"></img>
 <img src="https://simpleicons.org/icons/rust.svg" height="64"></img>
 <img src="https://simpleicons.org/icons/webassembly.svg" height="64"></img>
-<img src="https://simpleicons.org/icons/node-dot-js.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/nodedotjs.svg" height="64"></img>
 <img src="https://simpleicons.org/icons/typescript.svg" height="64"></img>
 <img src="https://simpleicons.org/icons/svelte.svg" height="64"></img>
 <img src="https://simpleicons.org/icons/react.svg" height="64"></img>
