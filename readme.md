@@ -73,4 +73,4 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 
 <br >
 
-> ####  Reach out to me on [Discord](https://www.discord.com/app)! I am @T•Ø•R•Ü•S#0361 ;)
+> ####  Reach out to me on [Discord](https://www.discord.com/app)! I am @T•Ø•R•Ü•S#4435 ;)
