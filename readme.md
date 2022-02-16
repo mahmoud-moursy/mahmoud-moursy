@@ -1,5 +1,3 @@
-# I have contributed to rust!
-
 <h1 align="center"><img src="readme.png"></img></h1>
 
 <br >
@@ -21,6 +19,14 @@
 </div>
 </a>
 <br >
+
+# OSS contributions:
+
+- NodeJS
+- NextJS (framework based on React)
+- Hyper (terminal emulator by Vercel)
+- Rust by Example (Rust documentation)
+- Active PR for Rust (Programming language)
 
 # What is my calling?
 
