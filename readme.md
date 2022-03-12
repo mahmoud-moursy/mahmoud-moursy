@@ -26,7 +26,7 @@
 - NextJS (framework based on React)
 - Hyper (terminal emulator by Vercel)
 - Rust by Example (Rust documentation)
-- Active PR for Rust (Programming language)
+- Rust (Programming language)
 
 # What is my calling?
 
@@ -52,7 +52,7 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |Language|Skill level|
 |--------|-----------|
 |JavaScript/TypeScript| ⭐⭐⭐⭐⭐|
-|Rust|⭐⭐⭐|
+|Rust|⭐⭐⭐⭐⭐|
 |React/Svelte|⭐⭐⭐|
 |CSS|-⭐ 🥲|
 |Python|⭐⭐|
