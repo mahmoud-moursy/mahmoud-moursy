@@ -11,18 +11,12 @@
 <a href="README_wasm-tab.md">WebAssembly</a>
 </h1>
 
-Rust! <img src="https://simpleicons.org/icons/rust.svg" height="16"> I am a novice Rustacean -- and I'm capable of creating various types of simple, safe applications in Rust! Due to Rust's explicit error handling, my Rust apps should be rock-solid stable and super speedy due to Rust's compiler!.. but I'm not that good at Rust yet so we'll have to wait and see 😅
+Rust! <img src="https://simpleicons.org/icons/rust.svg" height="16"> I am an expert Rustacean -- and I'm capable of creating various types of simple, safe applications in Rust! Due to Rust's explicit error handling, my Rust apps will be rock-solid stable and super speedy due to Rust's compiler
 
 ![Rust code example](rust.png)
 
-My latest Rust adventure? [I made a command-line utility meant to replace npm init (starting point for all NodeJS projects)](https://github.com/T-O-R-U-S/Inknit)
-
-My most **practical** Rust adventure? [I made a fast command-line utility to easily deploy a server on localhost](https://github.com/T-O-R-U-S/qdp)
+My latest Rust adventure? [Donut Planet](https://github.com/T-O-R-U-S/donut-planet-backend), a social media service.
 <br >
-
-Prior sideprojects:
-- [I made a fast command-line utility to easily deploy a server on localhost](https://github.com/T-O-R-U-S/qdp)
-- [I made a fast command-line utility to easily download files from the web similar to Curl!](https://github.com/T-O-R-U-S/quickdl)
 </p>
 
 
