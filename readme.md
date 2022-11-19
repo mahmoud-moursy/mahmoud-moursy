@@ -1,6 +1,9 @@
 <h1 align="center"><img src="readme.png"></img></h1>
 
 <br >
+<h2 align="center"><a href="https://t-o-r-u-s.github.io/">My portfolio</a></h2>
+
+<br >
 <h2 align="center">My languages (and tools):</h2>
 <a href="https://github.com/T-O-R-U-S/">
 <div align="center">
@@ -61,9 +64,6 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)](https://github.com/T-O-R-U-S)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-R-U-S&layout=compact)](https://github.com/T-O-R-U-S)
 ##### Hey! These really cool widgets on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
-
-## Front-end sampler coming soon! But this decent markdown (I hope) should be a good sign :)
-- In the meantime, why not check out my [GitHub Pages](https://t-o-r-u-s.github.io)? ;-)
 
 ## 📝 My top IDEs/text editors!
 1. Visual Studio code! <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="16"></img>
