@@ -8,7 +8,7 @@
 <a href="https://github.com/T-O-R-U-S/">
 <div align="center">
 <code>
-<img src="https://simpleicons.org/icons/python.svg" height="64"></img><img src="https://simpleicons.org/icons/manjaro.svg" height="64"></img><img src="https://simpleicons.org/icons/javascript.svg" height="64"></img><img src="https://simpleicons.org/icons/markdown.svg" height="64"></img><img src="https://simpleicons.org/icons/rust.svg" height="64"></img><img src="https://simpleicons.org/icons/webassembly.svg" height="64"></img><img src="https://simpleicons.org/icons/nodedotjs.svg" height="64"></img><img src="https://simpleicons.org/icons/typescript.svg" height="64"></img><img src="https://simpleicons.org/icons/svelte.svg" height="64"></img><img src="https://simpleicons.org/icons/react.svg" height="64"></img>
+<img src="https://simpleicons.org/icons/python.svg" height="64"></img> <img src="https://simpleicons.org/icons/manjaro.svg" height="64"></img> <img src="https://simpleicons.org/icons/javascript.svg" height="64"></img> <img src="https://simpleicons.org/icons/markdown.svg" height="64"></img> <img src="https://simpleicons.org/icons/rust.svg" height="64"></img> <img src="https://simpleicons.org/icons/webassembly.svg" height="64"></img> <img src="https://simpleicons.org/icons/nodedotjs.svg" height="64"></img> <img src="https://simpleicons.org/icons/typescript.svg" height="64"></img> <img src="https://simpleicons.org/icons/svelte.svg" height="64"></img> <img src="https://simpleicons.org/icons/react.svg" height="64"></img>
 </code>
 </div>
 </a>
