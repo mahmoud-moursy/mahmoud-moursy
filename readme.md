@@ -18,6 +18,7 @@
 
 - NodeJS
 - NextJS (framework based on React)
+- Svelte (popular JS framework)
 - Hyper (terminal emulator by Vercel)
 - Rust by Example (Rust documentation)
 - Rust (Programming language)
