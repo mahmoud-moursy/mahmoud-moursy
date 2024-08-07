@@ -22,7 +22,7 @@
 - Svelte (popular JS framework)
 - Hyper (terminal emulator by Vercel)
 - Rust by Example (Rust documentation)
-- Rust (Programming language)
+- Rust (Programming language core and standard library)
 
 # What is my calling?
 
@@ -51,25 +51,22 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |Rust|⭐⭐⭐⭐⭐|
 |CSS|⭐⭐⭐⭐|
 |React/Svelte|⭐⭐⭐|
-|Python|⭐⭐|
+|Python|⭐⭐⭐⭐|
 
 <br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-O-R-U-S)](https://github.com/T-O-R-U-S)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-R-U-S&layout=compact)](https://github.com/T-O-R-U-S)
-##### Hey! These really cool widgets on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
+##### Hey! This really cool widget on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
 
 ## 📝 My top IDEs/text editors!
-1. Visual Studio code! <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="16"></img>
-2. NeoVim :)  <img src="https://simpleicons.org/icons/neovim.svg" height="16"></img> Nice and simple. Favorite command line application!
-3. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (But yikes, is it expensive! and presents little bonus functionality to top VSCode :/)
+1. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (But yikes, is it expensive! and presents little bonus functionality to top VSCode :/)
+2. [Helix](https://helix-editor.com/) editor
 ## ✨ Fun facts about me
-- I was born in Japan 🇯🇵 which I nice, but I was there for like 3 months and I don't know any Japanese :/
-- I have been programming since I was 10 years old. (It's true!) 👶
-- Programming has overtaken gaming as my daily hobby. Farewell, VALORANT. 🎮 
 - I made my profile picture on my own in Blender! <img src="https://simpleicons.org/icons/blender.svg" height="16"></img>
-
-
+- I was born in 🇯🇵, although I don't speak any Japanese.
+- I *do* speak Arabic.
 
 <br >
 
-> ####  Reach out to me on [Discord](https://www.discord.com/app)! I am @T•Ø•R•Ü•S#4435 ;)
+## Contact
+
+- I am `@t.o.r.u.s` on Discord.
