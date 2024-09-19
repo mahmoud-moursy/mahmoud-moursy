@@ -53,10 +53,6 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |React/Svelte|⭐⭐⭐|
 |Python|⭐⭐⭐⭐|
 
-<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-R-U-S&layout=compact)](https://github.com/T-O-R-U-S)
-##### Hey! This really cool widget on my profile were made by [Anurghazra](https://github.com/anuraghazra), check them out on Github!
-
 ## 📝 My top IDEs/text editors!
 1. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (But yikes, is it expensive! and presents little bonus functionality to top VSCode :/)
 2. [Helix](https://helix-editor.com/) editor
