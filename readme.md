@@ -57,7 +57,6 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 1. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (But yikes, is it expensive! and presents little bonus functionality to top VSCode :/)
 2. [Helix](https://helix-editor.com/) editor
 ## ✨ Fun facts about me
-- I made my profile picture on my own in Blender! <img src="https://simpleicons.org/icons/blender.svg" height="16"></img>
 - I was born in 🇯🇵, although I don't speak any Japanese.
 - I *do* speak Arabic.
 
