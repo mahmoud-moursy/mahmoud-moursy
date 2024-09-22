@@ -1,7 +1,7 @@
 <h1 align="center"><img src="readme.png"></img></h1>
 
 <br >
-<h2 align="center"><a href="https://t-o-r-u-s.github.io/">My portfolio</a></h2>
+<h2 align="center"><a href="https://mahmoud-moursy.github.io">My portfolio</a></h2>
 
 <br >
 <h2 align="center">My languages (and tools):</h2>
