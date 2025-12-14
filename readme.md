@@ -62,8 +62,9 @@ Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify 
 |Python|⭐⭐⭐⭐|
 
 ## 📝 My top IDEs/text editors!
-1. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (But yikes, is it expensive! and presents little bonus functionality to top VSCode :/)
+1. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (but only while my student license lasts!!!)
 2. [Helix](https://helix-editor.com/) editor
+3. [Zed](https://zed.dev/)
 ## ✨ Fun facts about me
 - I was born in 🇯🇵, although I don't speak any Japanese.
 - I *do* speak Arabic.
