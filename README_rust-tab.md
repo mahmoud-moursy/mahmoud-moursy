@@ -22,5 +22,3 @@ My latest Rust adventure? [Donut Planet](https://github.com/T-O-R-U-S/donut-plan
 
 
 <br >
-
-######  Reach me on [Discord](https://www.discord.com/app)! I am @T•Ø•R•Ü•S#4435 ;)
