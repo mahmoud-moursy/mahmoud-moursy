@@ -21,5 +21,3 @@ JavaScript! <img src="https://simpleicons.org/icons/javascript.svg" height="16">
 
 
 <br >
-
-> #####  Reach me on [Discord](https://www.discord.com/app)! I am @T•Ø•R•Ü•S#4435 ;)
