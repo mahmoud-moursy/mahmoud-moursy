@@ -46,7 +46,7 @@
 </h1>
 
 
-JavaScript! <img src="https://simpleicons.org/icons/javascript.svg" height="16"> All the way. I am an expert in everything JavaScript, and would love to contribute to a JavaScript open-source project! I have made several small applications to showcase my back-end JavaScript expertise. My favorite back-end NodeJS library is currently KoaJS (but I've got some express experience)!
+JavaScript! <img src="https://simpleicons.org/icons/javascript.svg" height="16"> All the way. I am an expert in everything JavaScript, and love contributing to any JavaScript open-source project I can make better!
 
 ![JavaScript code example](javascript.png)
 
