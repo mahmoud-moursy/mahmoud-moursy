@@ -11,18 +11,12 @@
 <a href="README_wasm-tab.md">WebAssembly</a>
 </h1>
 
-Python! <img src="https://simpleicons.org/icons/python.svg" height="16"> I have been using Python practically since I started coding, and is my goto for command-line apps and shell-scripting! I have been coding in Python since essentially day 1. I remember when I was 10 I programmed an awful command-line game in Python (which I still have a copy of but REFUSE to share with anybody for the sake of my dignity as a developer).
+Python! <img src="https://simpleicons.org/icons/python.svg" height="16"> I have been coding in Python since essentially day 1 of my programming journey. When I was 10, I programmed an awful command-line game in Python (which I still have a copy of but REFUSE to share with anybody for the sake of my dignity as a developer). I was overjoyed, and that positive experience has unfortunately set me down this current path today.
 
 ![Python code example](python.png)
 
-My latest Python adventure? [mafiru (MAss FIle Renaming Utility)](https://github.com/T-O-R-U-S/mafiru)
-<br >
-
-I don't have backups of the other endeavours 😅
 </p>
 
 
 
 <br >
-
-######  Reach me on [Discord](https://www.discord.com/app)! I am @T•Ø•R•Ü•S#4435 ;)
