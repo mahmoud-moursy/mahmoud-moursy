@@ -52,15 +52,6 @@ JavaScript! <img src="https://simpleicons.org/icons/javascript.svg" height="16">
 
 </p>
 
-Of course, I wouldn't want to mislead you (😅) so here is a chart to quantify how good I am at each language
-|Language|Skill level|
-|--------|-----------|
-|JavaScript/TypeScript| ⭐⭐⭐⭐⭐|
-|Rust|⭐⭐⭐⭐⭐|
-|CSS|⭐⭐⭐⭐|
-|React/Svelte|⭐⭐⭐|
-|Python|⭐⭐⭐⭐|
-
 ## 📝 My top IDEs/text editors!
 1. JetBrains WebStorm <img src="https://simpleicons.org/icons/webstorm.svg" height="16"></img> (but only while my student license lasts!!!)
 2. [Helix](https://helix-editor.com/) editor
